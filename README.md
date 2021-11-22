@@ -6,7 +6,7 @@ For example see accompanying Dracula.txt file initially downloaded via Project G
 
 See an example below using the Dracula.txt and connector with "love". The graph displays the 51 most frequently connected words.
 
-![This is an image](https://github.com/TheodorEmanuelsson/PhraseNet/blob/main/Phrasenet.png)
+![This is an image](https://github.com/TheodorEmanuelsson/PhraseNet/blob/master/Phrasenet.png)
 
 
 ## Run the app
