@@ -12,6 +12,7 @@ See an example below using the Dracula.txt and connector with "love". The graph 
 ## Run the app
 
 Run the following command:
+
 `runGitHub("https://github.com/TheodorEmanuelsson/PhraseNet", "TheodorEmanuelsson")`
 
 ## Dependencies
