@@ -15,6 +15,8 @@ Run the following command:
 
 `shiny::runGitHub("PhraseNet", "TheodorEmanuelsson")`
 
+or clone the repository.
+
 ## Dependencies
 
 The application depends on `shiny`, `shinydashboard`, `tidyr`, `tibble`, `tidytext`, `visNetwork`.
