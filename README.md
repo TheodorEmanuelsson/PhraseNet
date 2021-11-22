@@ -4,5 +4,7 @@ This is a phrase net implemented as a Shiny application. A phrase net is a visua
 
 For example see accompanying Dracula.txt file initially downloaded via Project Gutenberg: https://www.gutenberg.org/ebooks/345
 
+![This is an image](https://github.com/TheodorEmanuelsson/PhraseNet/blob/main/Phrasenet.png)
+
 
 ## Installation
